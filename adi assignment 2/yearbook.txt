@@ -1,0 +1,25 @@
+Aditya:
+Dhruv, 1
+Aahan, 0
+Rahul, 1
+Arnav, 0
+Dhruv:
+Aditya, 1
+Aahan, 0
+Rahul, 0
+Arnav, 0
+Aahan:
+Aditya, 1
+Dhruv, 1
+Rahul, 1
+Arnav, 0
+Rahul:
+Aditya, 1
+Dhruv, 1
+Aahan, 1
+Arnav, 1
+Arnav:
+Aditya, 0
+Dhruv, 0
+Aahan, 1
+Rahul, 0

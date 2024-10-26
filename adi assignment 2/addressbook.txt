@@ -1,0 +1,4 @@
+[{'adi': {'address': 'asdfghj', 'phno': '1234567890', 'email': 'ddf'}}]
+[{'adi': {'address': 'gh jk jk', 'phno': '9999095990', 'email': 'aditya22040@iiitd.ac.in'}}]
+[{'adarsh': {'address': 'gh gfgf', 'phno': '9999095991', 'email': 'adarsh22040@iiitd.ac.in'}}]
+[{'abhishek': {'address': 'asdf', 'phno': '1234567880', 'email': 'sdfffghhg'}}]
